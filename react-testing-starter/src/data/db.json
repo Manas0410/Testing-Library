@@ -16,7 +16,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Refined Concrete Soap",
+      "name": "Refined Concrete Soappp",
       "price": 799,
       "categoryId": 1
     },
@@ -397,6 +397,12 @@
       "price": 123,
       "categoryId": 2,
       "id": 64
+    },
+    {
+      "name": "Manas Srivastava",
+      "price": 122,
+      "categoryId": 2,
+      "id": 65
     }
   ]
 }
